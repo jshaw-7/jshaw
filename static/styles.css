@@ -1,0 +1,23 @@
+@font-face {
+    font-family: montserrat;
+    src: url('/static/Montserrat/Montserrat-Medium.ttf');
+    font-display: swap;
+  }
+
+body {
+    font-family: montserrat;
+
+}
+
+.navbar {
+    font-size: 20px;
+}
+
+.navbar-brand{
+    font-size: 25px;
+}
+
+#intro{
+    padding: 80px 20px;
+    width: 40vw;
+}
